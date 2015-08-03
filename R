@@ -1,0 +1,5 @@
+base- R基础功能包
+stats- R统计学包
+nlme- 线性及非线性
+Graphics- 绘图
+lattice- 栅格图
